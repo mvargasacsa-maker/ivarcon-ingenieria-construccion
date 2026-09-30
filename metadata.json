@@ -1,0 +1,6 @@
+{
+  "name": "IVARCON | Ingeniería y Construcción",
+  "description": "Soluciones integrales de ingeniería y construcción para viviendas, proyectos y edificaciones en Perú. Del plano a la obra, con respaldo profesional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
